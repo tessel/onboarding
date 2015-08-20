@@ -16,4 +16,14 @@ Go to the [Tessel 2 start page](http://tessel.github.io/t2-start/) and try it ou
 You'll be much more equipped to make meaningful contributions if you read the [Tessel 2 Technical Guide](https://github.com/tessel/onboarding/blob/master/T2-TECHNICAL-OVERVIEW.md). This guide goes over the main repositories, where you can find relevant code and design files, and how the Tessel 2 system architecture works.
 
 ###5. Get to know your mentor
-Once you're part of the team and you have a high level understanding of how Tessel 2 works, get in touch with the person that introduced you to the project and set up a time to chat. This informal call will help you understand the current state of the project, where your help is needed most, and how you can get started. If you're not sure who to contact, get in touch with the person who accepted [your first PR](#3-get-to-know-t2) or [jump on Slack and let us know you're ready to get started](https://tessel-slack.herokuapp.com/).
+Once you're part of the team and you have a high level understanding of how Tessel 2 works, get in touch with the person that introduced you to the project and set up a time to chat. This informal call will help you understand the current state of the project, where your help is needed most, and how you can get started. If you're not sure who to contact, get in touch with the person who accepted [your first PR](#2-get-started-with-your-tessel-2) or [jump on Slack and let us know you're ready to get started](https://tessel-slack.herokuapp.com/).
+
+###6. Get to know the team
+Our primary communication channel is [Slack](https://tessel-slack.herokuapp.com/). We recommend keeping it open while you're working on Tessel; it's very useful for asking quick questions. Important channels:
+
+* #engineering for most of your technical questions
+* #team-members for discussion with your fellow Team Members
+* #events-speaking if you're interested in giving conference talks
+
+###7. Do something!
+Your mentor can help you find something to work on, or the [T2 Completeness Checklist](https://github.com/tessel/project/issues/70) is a good place to start. Pick something, ask questions, and get started!

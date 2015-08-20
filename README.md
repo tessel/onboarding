@@ -1,4 +1,7 @@
 # How to start contributing to the Tessel Project
+Welcome, new [Team Member](https://github.com/tessel/project/blob/master/TEAM-MEMBERS.md)! We're excited to have you. Please go through the steps below to familiarize yourself with the project.
+
+If anything is confusing or out of date, please make it easier for the next person! Report issues and make PRs on this and all other Tessel repos.
 
 ###1. Sign the the [CLA](http://dojofoundation.org/about/claForm).
 The Tessel Project is an open source project and a proud member of the Dojo Foundation. The Dojo Foundation requires that all contributors take 2 minutes to sign their Contributor License Agreement (CLA) before having any contributions accepted. Please do so [here](http://dojofoundation.org/about/claForm) before opening any Pull Requests on Tessel repos.

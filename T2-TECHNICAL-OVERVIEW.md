@@ -26,7 +26,7 @@ You can find all of the Tessel repositories [on the organization page](https://g
 
 #####[Tessel 2 Command Line Interface](https://www.github.com/tessel/t2-cli) (CLI)
 
-The CLI is the primary method of interacting with Tessel for users and develoeprs. It provides useful functions like listing available Tessels, deploying code, and setting wifi credentials on the device.
+The CLI is the primary method of interacting with Tessel for users and developers. It provides useful functions like listing available Tessels, deploying code, and setting wifi credentials on the device.
 
 #####[Tessel 2 Operation System (OpenWRT)](https://www.github.com/tessel/openwrt-tessel)
 The primary processor of the Tessel 2 runs a very lightweight version of Linux called OpenWRT. OpenWRT provides all of the TCP/IP drivers, threading/schedule support, and runs Node, Rust or whatever other language you're using with Tessel 2. This repo contains all of the source files of the Tessel build of OpenWRT.

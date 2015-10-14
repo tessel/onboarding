@@ -36,7 +36,7 @@ Figure out what USB port your Tessel is plugged into by typing `ls /dev/tty.usbm
 
 Download and build dterm from http://www.knossos.net.nz/resources/free-software/dterm/, or use screen, which comes with most Linux distros.
 
-The path to the serial port is /dev/ttyACM0 or /dev/serial/by-id/usb-Technical_Machine_Tessel_2_<serial number>-if01 - find out by typing `ls` for those locations.
+The path to the serial port is `/dev/ttyACM0` or /`dev/serial/by-id/usb-Technical_Machine_Tessel_2_<serial number>-if01` - find out by typing `ls` for those locations.
 
 #### Windows
 

@@ -26,9 +26,21 @@ Dterm lets you talk to Tessel over USB.
 
 ### Setup
 
+#### OS X
+
 Install dterm with `brew install dterm`.
 
 Figure out what USB port your Tessel is plugged into by typing `ls /dev/tty.usbmodem` – see whether it auto-completes to e.g. `/dev/tty.usbmodem1412` or a different number.
+
+#### Linux
+
+Download and build dterm from http://www.knossos.net.nz/resources/free-software/dterm/, or use screen, which comes with most Linux distros.
+
+The path to the serial port is /dev/ttyACM0 or /dev/serial/by-id/usb-Technical_Machine_Tessel_2_<serial number>-if01 - find out by typing `ls` for those locations.
+
+#### Windows
+
+Not sure, sorry... if you know how to access serial on Windows, please PR.
 
 ### dterm in
 

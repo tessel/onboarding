@@ -12,7 +12,7 @@ Run `t2 provision` to authorize your computer with your Tessel.
 
 ### SSH in
 
-Use the command `ssh@<tesselname>.local -i ~/.tessel/id_rsa`.
+Use the command `ssh root@<tesselname>.local -i ~/.tessel/id_rsa`.
 
 The `-i` command lets you specify the filepath to the RSA keys written by `t2 provision`.
 

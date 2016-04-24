@@ -137,7 +137,7 @@ In the case of a LAN connection over WiFi or Ethernet, the procedure is much the
 
 ## Questions?
 
-Ask us on [Slack](tessel.slack.com) (join [here](http://tessel-slack.herokuapp.com/) if you haven't already) or ask on [the forums](https://forums.tessel.io).
+Ask us on [Slack](https://tessel.slack.com) (join [here](http://tessel-slack.herokuapp.com/) if you haven't already) or ask on [the forums](https://forums.tessel.io).
 
 ## More Useful Links
 - [Current CLI Development Roadmap](https://github.com/tessel/t2-cli#development-milestones)
